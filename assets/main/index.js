@@ -822,6 +822,9 @@ System.register("chunks:///_virtual/GameMusic.ts", ['./rollupPluginModLoBabelHel
           }
           input.on(Input.EventType.TOUCH_START, this.unlock, this);
           input.on(Input.EventType.MOUSE_DOWN, this.unlock, this);
+          // Capture before Home/Result BlockInputEvents consumes the pointer event.
+          this.node.on(Node.EventType.TOUCH_START, this.unlock, this, true);
+          this.node.on(Node.EventType.MOUSE_DOWN, this.unlock, this, true);
           game.on(Game.EVENT_HIDE, this.hide, this);
           game.on(Game.EVENT_SHOW, this.show, this);
           var n = this.button = new Node('MusicButton');
@@ -927,6 +930,8 @@ System.register("chunks:///_virtual/GameMusic.ts", ['./rollupPluginModLoBabelHel
           });
           input.off(Input.EventType.TOUCH_START, this.unlock, this);
           input.off(Input.EventType.MOUSE_DOWN, this.unlock, this);
+          this.node.off(Node.EventType.TOUCH_START, this.unlock, this, true);
+          this.node.off(Node.EventType.MOUSE_DOWN, this.unlock, this, true);
           game.off(Game.EVENT_HIDE, this.hide, this);
           game.off(Game.EVENT_SHOW, this.show, this);
         };
