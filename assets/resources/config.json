@@ -1,0 +1,372 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "0113f09e-4462-4724-8f52-f4c78138d024",
+        "0871aec08",
+        "17954637-aa19-4310-ae8f-42660d47b173",
+        "17954637-aa19-4310-ae8f-42660d47b173@6c48a",
+        "17954637-aa19-4310-ae8f-42660d47b173@f9941",
+        "3d813e78-40fd-419d-8980-0ff8b8bcca52",
+        "3d813e78-40fd-419d-8980-0ff8b8bcca52@6c48a",
+        "3d813e78-40fd-419d-8980-0ff8b8bcca52@f9941",
+        "4e01ca61-b3ba-4d0c-b8cd-8c3f7d9c7019",
+        "4e01ca61-b3ba-4d0c-b8cd-8c3f7d9c7019@6c48a",
+        "4e01ca61-b3ba-4d0c-b8cd-8c3f7d9c7019@f9941",
+        "56cbeed6-d962-47a3-8bc3-150124bae386",
+        "62b246c3-fe6f-4045-a845-3e34a497618b",
+        "66d66952-32b9-4979-b412-b9d3faf28729",
+        "66d66952-32b9-4979-b412-b9d3faf28729@6c48a",
+        "66d66952-32b9-4979-b412-b9d3faf28729@f9941",
+        "68c00748-5418-4aab-9ae1-c22ca21085cf",
+        "68c00748-5418-4aab-9ae1-c22ca21085cf@6c48a",
+        "68c00748-5418-4aab-9ae1-c22ca21085cf@f9941",
+        "6953f0a4-da26-43ab-b5d4-04c22311708e",
+        "6953f0a4-da26-43ab-b5d4-04c22311708e@6c48a",
+        "6953f0a4-da26-43ab-b5d4-04c22311708e@f9941",
+        "6e5c0ec6-f404-4091-8e8b-45912527ba61",
+        "6e5c0ec6-f404-4091-8e8b-45912527ba61@6c48a",
+        "6e5c0ec6-f404-4091-8e8b-45912527ba61@f9941",
+        "76912073-c50c-4f3f-935d-34fffaa93fa4",
+        "76912073-c50c-4f3f-935d-34fffaa93fa4@6c48a",
+        "76912073-c50c-4f3f-935d-34fffaa93fa4@f9941",
+        "8362f988-f2a9-4d15-8fb1-57c3fcc911af",
+        "8362f988-f2a9-4d15-8fb1-57c3fcc911af@6c48a",
+        "8362f988-f2a9-4d15-8fb1-57c3fcc911af@f9941",
+        "874b72b3-bcc3-449f-b1c5-a5b66687afdb",
+        "874b72b3-bcc3-449f-b1c5-a5b66687afdb@6c48a",
+        "874b72b3-bcc3-449f-b1c5-a5b66687afdb@f9941",
+        "969587b2-fa53-445f-9b51-d6ad3f56f75e",
+        "969587b2-fa53-445f-9b51-d6ad3f56f75e@6c48a",
+        "969587b2-fa53-445f-9b51-d6ad3f56f75e@f9941",
+        "9827bbc3-ab8f-4a38-b55a-059b8d2f42bc",
+        "9827bbc3-ab8f-4a38-b55a-059b8d2f42bc@6c48a",
+        "9827bbc3-ab8f-4a38-b55a-059b8d2f42bc@f9941",
+        "bd8b12e6-794c-40fd-bf00-601a4e372ab0",
+        "bd8b12e6-794c-40fd-bf00-601a4e372ab0@6c48a",
+        "bd8b12e6-794c-40fd-bf00-601a4e372ab0@f9941",
+        "d203aae7-f112-4da5-9c98-1261670ab856",
+        "d203aae7-f112-4da5-9c98-1261670ab856@6c48a",
+        "d203aae7-f112-4da5-9c98-1261670ab856@f9941",
+        "d4213619-f552-489c-badc-dd301d910b3a",
+        "d4213619-f552-489c-badc-dd301d910b3a@6c48a",
+        "d4213619-f552-489c-badc-dd301d910b3a@f9941",
+        "de4b84d0-fcf9-4562-ba61-55ccc637037f",
+        "de4b84d0-fcf9-4562-ba61-55ccc637037f@6c48a",
+        "de4b84d0-fcf9-4562-ba61-55ccc637037f@f9941",
+        "e5acf84b-bea3-4123-994a-bd2b956903dd",
+        "ead0e1d7-523c-413f-ad48-5ea6ffdea152",
+        "ead0e1d7-523c-413f-ad48-5ea6ffdea152@6c48a",
+        "ead0e1d7-523c-413f-ad48-5ea6ffdea152@f9941"
+    ],
+    "paths": {
+        "62b246c3-fe6f-4045-a845-3e34a497618b": [
+            "audio/danger",
+            "cc.AudioClip",
+            1
+        ],
+        "56cbeed6-d962-47a3-8bc3-150124bae386": [
+            "audio/normal",
+            "cc.AudioClip",
+            1
+        ],
+        "0113f09e-4462-4724-8f52-f4c78138d024": [
+            "audio/victory",
+            "cc.AudioClip",
+            1
+        ],
+        "76912073-c50c-4f3f-935d-34fffaa93fa4": [
+            "brand/brand-motif",
+            "cc.ImageAsset",
+            1
+        ],
+        "76912073-c50c-4f3f-935d-34fffaa93fa4@6c48a": [
+            "brand/brand-motif/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "76912073-c50c-4f3f-935d-34fffaa93fa4@f9941": [
+            "brand/brand-motif/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "66d66952-32b9-4979-b412-b9d3faf28729": [
+            "brand/mascot-heart",
+            "cc.ImageAsset",
+            1
+        ],
+        "66d66952-32b9-4979-b412-b9d3faf28729@6c48a": [
+            "brand/mascot-heart/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "66d66952-32b9-4979-b412-b9d3faf28729@f9941": [
+            "brand/mascot-heart/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "969587b2-fa53-445f-9b51-d6ad3f56f75e": [
+            "brand/mascot-home",
+            "cc.ImageAsset",
+            1
+        ],
+        "969587b2-fa53-445f-9b51-d6ad3f56f75e@6c48a": [
+            "brand/mascot-home/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "969587b2-fa53-445f-9b51-d6ad3f56f75e@f9941": [
+            "brand/mascot-home/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "9827bbc3-ab8f-4a38-b55a-059b8d2f42bc": [
+            "brand/mascot-result-heart",
+            "cc.ImageAsset",
+            1
+        ],
+        "9827bbc3-ab8f-4a38-b55a-059b8d2f42bc@6c48a": [
+            "brand/mascot-result-heart/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "9827bbc3-ab8f-4a38-b55a-059b8d2f42bc@f9941": [
+            "brand/mascot-result-heart/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6953f0a4-da26-43ab-b5d4-04c22311708e": [
+            "brand/mascot-sweat",
+            "cc.ImageAsset",
+            1
+        ],
+        "6953f0a4-da26-43ab-b5d4-04c22311708e@6c48a": [
+            "brand/mascot-sweat/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6953f0a4-da26-43ab-b5d4-04c22311708e@f9941": [
+            "brand/mascot-sweat/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "de4b84d0-fcf9-4562-ba61-55ccc637037f": [
+            "brand/yeasen-logo",
+            "cc.ImageAsset",
+            1
+        ],
+        "de4b84d0-fcf9-4562-ba61-55ccc637037f@6c48a": [
+            "brand/yeasen-logo/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "de4b84d0-fcf9-4562-ba61-55ccc637037f@f9941": [
+            "brand/yeasen-logo/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e5acf84b-bea3-4123-994a-bd2b956903dd": [
+            "fonts/reagent-title",
+            "cc.TTFFont",
+            1
+        ],
+        "d4213619-f552-489c-badc-dd301d910b3a": [
+            "products/level-1",
+            "cc.ImageAsset",
+            1
+        ],
+        "d4213619-f552-489c-badc-dd301d910b3a@6c48a": [
+            "products/level-1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d4213619-f552-489c-badc-dd301d910b3a@f9941": [
+            "products/level-1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "4e01ca61-b3ba-4d0c-b8cd-8c3f7d9c7019": [
+            "products/level-10",
+            "cc.ImageAsset",
+            1
+        ],
+        "4e01ca61-b3ba-4d0c-b8cd-8c3f7d9c7019@6c48a": [
+            "products/level-10/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "4e01ca61-b3ba-4d0c-b8cd-8c3f7d9c7019@f9941": [
+            "products/level-10/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "874b72b3-bcc3-449f-b1c5-a5b66687afdb": [
+            "products/level-11",
+            "cc.ImageAsset",
+            1
+        ],
+        "874b72b3-bcc3-449f-b1c5-a5b66687afdb@6c48a": [
+            "products/level-11/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "874b72b3-bcc3-449f-b1c5-a5b66687afdb@f9941": [
+            "products/level-11/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "bd8b12e6-794c-40fd-bf00-601a4e372ab0": [
+            "products/level-2",
+            "cc.ImageAsset",
+            1
+        ],
+        "bd8b12e6-794c-40fd-bf00-601a4e372ab0@6c48a": [
+            "products/level-2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "bd8b12e6-794c-40fd-bf00-601a4e372ab0@f9941": [
+            "products/level-2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6e5c0ec6-f404-4091-8e8b-45912527ba61": [
+            "products/level-3",
+            "cc.ImageAsset",
+            1
+        ],
+        "6e5c0ec6-f404-4091-8e8b-45912527ba61@6c48a": [
+            "products/level-3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6e5c0ec6-f404-4091-8e8b-45912527ba61@f9941": [
+            "products/level-3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "8362f988-f2a9-4d15-8fb1-57c3fcc911af": [
+            "products/level-4",
+            "cc.ImageAsset",
+            1
+        ],
+        "8362f988-f2a9-4d15-8fb1-57c3fcc911af@6c48a": [
+            "products/level-4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "8362f988-f2a9-4d15-8fb1-57c3fcc911af@f9941": [
+            "products/level-4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "68c00748-5418-4aab-9ae1-c22ca21085cf": [
+            "products/level-5",
+            "cc.ImageAsset",
+            1
+        ],
+        "68c00748-5418-4aab-9ae1-c22ca21085cf@6c48a": [
+            "products/level-5/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "68c00748-5418-4aab-9ae1-c22ca21085cf@f9941": [
+            "products/level-5/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3d813e78-40fd-419d-8980-0ff8b8bcca52": [
+            "products/level-6",
+            "cc.ImageAsset",
+            1
+        ],
+        "3d813e78-40fd-419d-8980-0ff8b8bcca52@6c48a": [
+            "products/level-6/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "3d813e78-40fd-419d-8980-0ff8b8bcca52@f9941": [
+            "products/level-6/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "d203aae7-f112-4da5-9c98-1261670ab856": [
+            "products/level-7",
+            "cc.ImageAsset",
+            1
+        ],
+        "d203aae7-f112-4da5-9c98-1261670ab856@6c48a": [
+            "products/level-7/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d203aae7-f112-4da5-9c98-1261670ab856@f9941": [
+            "products/level-7/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "17954637-aa19-4310-ae8f-42660d47b173": [
+            "products/level-8",
+            "cc.ImageAsset",
+            1
+        ],
+        "17954637-aa19-4310-ae8f-42660d47b173@6c48a": [
+            "products/level-8/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "17954637-aa19-4310-ae8f-42660d47b173@f9941": [
+            "products/level-8/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ead0e1d7-523c-413f-ad48-5ea6ffdea152": [
+            "products/level-9",
+            "cc.ImageAsset",
+            1
+        ],
+        "ead0e1d7-523c-413f-ad48-5ea6ffdea152@6c48a": [
+            "products/level-9/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ead0e1d7-523c-413f-ad48-5ea6ffdea152@f9941": [
+            "products/level-9/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "0871aec08": [
+            "3d813e78-40fd-419d-8980-0ff8b8bcca52@6c48a",
+            "4e01ca61-b3ba-4d0c-b8cd-8c3f7d9c7019@6c48a",
+            "6e5c0ec6-f404-4091-8e8b-45912527ba61@6c48a",
+            "66d66952-32b9-4979-b412-b9d3faf28729@6c48a",
+            "68c00748-5418-4aab-9ae1-c22ca21085cf@6c48a",
+            "874b72b3-bcc3-449f-b1c5-a5b66687afdb@6c48a",
+            "6953f0a4-da26-43ab-b5d4-04c22311708e@6c48a",
+            "8362f988-f2a9-4d15-8fb1-57c3fcc911af@6c48a",
+            "9827bbc3-ab8f-4a38-b55a-059b8d2f42bc@6c48a",
+            "969587b2-fa53-445f-9b51-d6ad3f56f75e@6c48a",
+            "17954637-aa19-4310-ae8f-42660d47b173@6c48a",
+            "76912073-c50c-4f3f-935d-34fffaa93fa4@6c48a",
+            "bd8b12e6-794c-40fd-bf00-601a4e372ab0@6c48a",
+            "d203aae7-f112-4da5-9c98-1261670ab856@6c48a",
+            "d4213619-f552-489c-badc-dd301d910b3a@6c48a",
+            "de4b84d0-fcf9-4562-ba61-55ccc637037f@6c48a",
+            "ead0e1d7-523c-413f-ad48-5ea6ffdea152@6c48a"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
